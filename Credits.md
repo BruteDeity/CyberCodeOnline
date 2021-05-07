@@ -137,6 +137,7 @@ Satan
 
 ## Tips
 [Archibaald](https://github.com/Archibaald-dev)  
+Beepbeepimajeep
 Bronzer  
 [byakkozen](https://github.com/byakkozen)  
 Crescent_Grey  
